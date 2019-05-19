@@ -3,8 +3,8 @@
 
 /*
  * Program written by: Abdul Lutfi
- * Email: abdul.lutfi146@gmail.com
- * abdullutfiblog.wordpress.com
+ * Email: abdul@lutfi-mechatronics.engineer
+ * lutfi-mechatronics.engineer
  * 
  * Last updated: 7 September 2017
 */
